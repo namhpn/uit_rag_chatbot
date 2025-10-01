@@ -1,2 +1,4 @@
 # uit_rag_chatbot
-let him cook
+School Project
+## Based on
+Node.js, Express.js, HTML, CSS (got some help from chatgpt hehe), GoogleGenAI (embedding & text-gen), Pinecone (VectorDB retrieval)
